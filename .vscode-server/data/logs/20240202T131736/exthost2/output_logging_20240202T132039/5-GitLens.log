@@ -1,0 +1,4 @@
+GitLens v14.7.0 activating in Visual Studio Code (1.85.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (8635a5638b2a63eb81c656477e69e69c13fb0cf032a2fca7caeeee3b24439b3a|ef212166-e06c-4fc2-be57-44fcdba9d3df1706890835880)
+To enable debug logging, set `"gitlens.outputLevel: "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2024-02-02 16:22:17.098] [GIT  ] [/] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [51ms]
+[2024-02-02 16:22:30.710] [GIT  ] [/] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [75ms]

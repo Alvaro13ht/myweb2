@@ -1,0 +1,15 @@
+2024-02-02 13:24:13.520 [info] 
+
+
+
+
+2024-02-02 13:24:13.530 [info] Extension host agent started.
+2024-02-02 13:24:13.836 [info] [127.0.0.1][ab8055d0][ManagementConnection] New connection established.
+2024-02-02 13:24:14.549 [info] [127.0.0.1][e455cfe7][ExtensionHostConnection] New connection established.
+2024-02-02 13:24:14.592 [info] [127.0.0.1][e455cfe7][ExtensionHostConnection] <1688> Launched Extension Host Process.
+2024-02-02 13:24:21.308 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2024-02-02 13:24:21.309 [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+2024-02-02 13:24:28.142 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2024-02-02 13:24:28.143 [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+2024-02-02 13:26:35.401 [info] [127.0.0.1][ab8055d0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-02 13:26:37.278 [info] [127.0.0.1][e455cfe7][ExtensionHostConnection] <1688> Extension Host Process exited with code: 0, signal: null.

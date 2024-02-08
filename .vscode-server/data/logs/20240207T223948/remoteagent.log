@@ -1,0 +1,22 @@
+2024-02-07 22:39:48.246 [info] 
+
+
+
+
+2024-02-07 22:39:48.278 [info] Extension host agent started.
+2024-02-07 22:39:48.441 [info] [127.0.0.1][54407c78][ManagementConnection] New connection established.
+2024-02-07 22:39:49.197 [info] [127.0.0.1][d9860088][ExtensionHostConnection] New connection established.
+2024-02-07 22:39:49.264 [info] [127.0.0.1][d9860088][ExtensionHostConnection] <3210> Launched Extension Host Process.
+2024-02-07 22:39:53.905 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2024-02-07 22:39:53.910 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2024-02-07 22:39:54.449 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2024-02-07 22:39:54.451 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-es
+2024-02-07 22:39:56.039 [info] [127.0.0.1][54407c78][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-07 22:39:56.612 [info] [127.0.0.1][d9860088][ExtensionHostConnection] <3210> Extension Host Process exited with code: 0, signal: null.
+2024-02-07 22:39:59.197 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-es
+2024-02-07 22:39:59.424 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.85.2024020709: ms-ceintl.vscode-language-pack-es
+2024-02-07 22:39:59.428 [info] Renamed to /root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.85.2024020709
+2024-02-07 22:39:59.430 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-es
+2024-02-07 22:39:59.435 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2024-02-07 22:39:59.474 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.85.2024013109
+2024-02-07 22:39:59.501 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es

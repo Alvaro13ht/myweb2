@@ -1,0 +1,23 @@
+2024-02-07 22:40:24.238 [info] Log level: Info
+2024-02-07 22:40:24.238 [info] Validating found git in: "git"
+2024-02-07 22:40:24.238 [info] Using git "2.34.1" from "git"
+2024-02-07 22:40:24.238 [info] > git rev-parse --show-toplevel [463ms]
+2024-02-07 22:40:24.238 [info] > git rev-parse --git-dir --git-common-dir [586ms]
+2024-02-07 22:40:24.238 [info] Open repository: /root
+2024-02-07 22:40:24.238 [info] > git rev-parse --show-toplevel [81ms]
+2024-02-07 22:40:24.238 [info] > git config --get commit.template [93ms]
+2024-02-07 22:40:24.313 [info] > git rev-parse --show-toplevel [50ms]
+2024-02-07 22:40:24.350 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [58ms]
+2024-02-07 22:40:24.369 [info] > git rev-parse --show-toplevel [37ms]
+2024-02-07 22:40:24.480 [info] > git rev-parse --show-toplevel [38ms]
+2024-02-07 22:40:24.669 [info] > git rev-parse --show-toplevel [105ms]
+2024-02-07 22:40:24.780 [info] > git check-ignore -v -z --stdin [8ms]
+2024-02-07 22:40:24.808 [info] > git rev-parse --show-toplevel [109ms]
+2024-02-07 22:40:24.869 [info] > git rev-parse --show-toplevel [46ms]
+2024-02-07 22:40:24.969 [info] > git rev-parse --show-toplevel [85ms]
+2024-02-07 22:40:25.011 [info] > git status -z -uall [650ms] (cancelled)
+2024-02-07 22:40:25.277 [info] > git rev-parse --show-toplevel [275ms]
+2024-02-07 22:40:25.326 [info] > git rev-parse --show-toplevel [21ms]
+2024-02-07 22:40:25.367 [info] > git show --textconv :myweb.html [23ms]
+2024-02-07 22:40:25.370 [info] > git ls-files --stage -- /root/myweb.html [9ms]
+2024-02-07 22:40:25.436 [info] > git cat-file -s 357015dc8083f59c5175362392f21b63d68af179 [40ms]

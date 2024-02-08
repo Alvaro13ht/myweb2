@@ -1,0 +1,6 @@
+[Info  - 1:28:15 PM] ESLint server is starting.
+[Info  - 1:28:15 PM] ESLint server running in node v18.17.1
+[Info  - 1:28:15 PM] ESLint server is running.
+[Info  - 1:29:15 PM] ESLint server stopped.
+[Error - 1:29:16 PM] Client ESLint: connection to server is erroring.
+write EPIPE
